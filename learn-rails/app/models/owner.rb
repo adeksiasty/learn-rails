@@ -5,7 +5,7 @@ class Owner
 	end
 
 	def birthdate
-		birthdate =Date.new(1990, 12, 22)
+		birthdate =Date.new(1992, 7, 8)
 	end
 
 	def countdown
